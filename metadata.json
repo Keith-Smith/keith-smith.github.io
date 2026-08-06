@@ -1,0 +1,8 @@
+{
+  "name": "Keith Smith Portfolio",
+  "description": "Developer & Systems Analyst portfolio showcasing systems builds, custom add-ons, data pipelines, and technical expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
